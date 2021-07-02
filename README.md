@@ -1,6 +1,7 @@
 ### Hi there 👋
 # Welcome!
 
+
 # 👨‍💻 Luanna Verônica  
 
 :computer: I'm Front-End Developer!
@@ -16,7 +17,7 @@
 ## Desenvolvedora HTML/CSS/JAVASCRIPT 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30"/>](https://www.linkedin.com/in/luanna-ver%C3%B4nica-silva-brand%C3%A3o-65432a153/)
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>](https://github.com/Luannabrandao)
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>] (https://github.com/Luannabrandao)
 
 
 ### FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO!
@@ -41,8 +42,8 @@
 - 🖥 &nbsp; Figma
 
 
-- Thanks for visiting.
+##Thanks for visiting.
 
-- Enjoy it!! o/
+#Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
