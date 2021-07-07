@@ -27,15 +27,11 @@
 
 📈 Adepta das **metodologias agéis**, também possuo a certificação em Scrum Fundamentals e Cybersecurity.
 
-🎓 Formada em **Analise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM - 2020) e continuo me atualizando nas tendências de tecnologias do mercado através de cursos técnicos.
+🎓 Formada em **Analise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM - 2020) e continuo me atualizando nas tendências de tecnologias do mercado através de cursos.
 
 ***
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt= "JavaScript" height="30"/>
-
-<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt= "CSS3" height="30"/>
-  
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML5" height="30"/>
-
+<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt= "CSS3" height="30"/> <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML5" height="30"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white " alt= "Python"  height="30"/>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
