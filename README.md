@@ -1,12 +1,8 @@
-## Oiii! Eu sou a Luanna Brandao
+## Oiii! Eu sou a Luanna Brandao 😃
 
 :computer: I'm Front-End Developer!
 
 :house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: create a new project and find a new job.
 
 🎓 Formada em **Analise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM - 2020) e continuo me atualizando nas tendências de tecnologias do mercado através de cursos tecnolog[icos, também possuo a certificação em Scrum Fundamentals e Cybersecurity.
 
@@ -33,12 +29,10 @@
  <a href="https://discord.com/channels/689887036110274618/746096237689962546" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luannav.s.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luanna-verônica-silva-brandão-65432a153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Luannabrandao/Luannabrandao/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 ## Thanks for visiting.
 
-# Enjoy it!! o/
+# Enjoy it!! o/ 🙃
 
 ----------------------------------------------------------------------------------
