@@ -4,7 +4,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-🎓 Formada em **Analise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM - 2020) e continuo me atualizando nas tendências de tecnologias do mercado através de cursos tecnolog[icos, também possuo a certificação em Scrum Fundamentals e Cybersecurity.
+🎓 Formada em **Analise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM - 2020) e continuo me atualizando nas tendências de tecnologias do mercado através de cursos e bootcamps tecnologicos, também possuo a certificação em Scrum Fundamentals e Cybersecurity.
 
 
  <div>
