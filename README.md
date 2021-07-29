@@ -1,12 +1,12 @@
 ## Oiii! Eu sou a Luanna Brandao 😃
 
-:computer: I'm Front-End Developer!
+:computer: I'm Full-stack Developer!
 
 :house_with_garden: I’m from Brazil.
 
 👩🏻‍🎓 Formada em **Analise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM - 2020) 
 
-📚 Continuo me atualizando nas tendências de tecnologias do mercado através de cursos e bootcamps tecnologicos.
+📚 Estou sempre me atualizando nas tendências de tecnologias do mercado através de cursos e bootcamps tecnologicos.
 
 🎓 Possuo a certificação em Scrum Fundamentals e Cybersecurity.
 
