@@ -2,9 +2,7 @@
 
 :computer: I'm Full-stack Developer!
 
-:house_with_garden: I’m from Brazil.
-
-👩🏻‍🎓 Formada em **Analise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM - 2020) 
+👩🏻‍🎓 Formada em **Analise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM - 2020) e cursando Engenharia da Computação.
 
 📚 Estou sempre me atualizando nas tendências de tecnologias do mercado através de cursos e bootcamps tecnologicos.
 
