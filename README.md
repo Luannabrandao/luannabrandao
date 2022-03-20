@@ -1,8 +1,8 @@
-## Oiii! Eu sou a Luanna Brandao 😃
+ Oiii! Eu sou a Luanna Brandao 😃
+ 
+:computer: Sou Desenvolvedora!!
 
-:computer: I'm Full-stack Developer!
-
-👩 Graduated in **System Analysis and Development** from Universidade Anhembi Morumbi (UAM-2020) and studying Computer Engineering.
+👩 Graduated in **System Analysis and Development** from Universidade Anhembi Morumbi (UAM-2020) and studying Computer Engineering
 
 📚 I'm always updating myself on market technology trends through technological courses and bootcamps.
 
