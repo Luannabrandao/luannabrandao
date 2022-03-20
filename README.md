@@ -2,11 +2,11 @@
 
 :computer: I'm Full-stack Developer!
 
-👩🏻‍🎓 Formada em **Analise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM - 2020) e cursando Engenharia da Computação.
+👩 Graduated in **System Analysis and Development** from Universidade Anhembi Morumbi (UAM-2020) and studying Computer Engineering.
 
-📚 Estou sempre me atualizando nas tendências de tecnologias do mercado através de cursos e bootcamps tecnologicos.
+📚 I'm always updating myself on market technology trends through technological courses and bootcamps.
 
-🎓 Possuo a certificação em Scrum Fundamentals e Cybersecurity.
+🎓 I have certification in Scrum Fundamentals and Cybersecurity.
 
 
  <div>
