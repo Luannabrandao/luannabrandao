@@ -1,6 +1,6 @@
  Oiii! Eu sou a Luanna Brandao 😃
  
-:computer: Sou Desenvolvedora!!
+:computer: Sou Desenvolvedora, atualmente trabalhando na area de produto como APM | Associate Product Manager!!
 
 👩 Graduated in **System Analysis and Development** from Universidade Anhembi Morumbi (UAM-2020) and studying Computer Engineering
 
