@@ -1,12 +1,12 @@
  Oiii! Eu sou a Luanna Brandao 😃
  
-:computer: Sou Desenvolvedora, atualmente trabalhando na area de produto como APM | Associate Product Manager!!
+:computer: Sou Desenvolvedora, atualmente trabalhando na area de Implantação | Implantação de sistema!!
 
 👩 Graduated in **System Analysis and Development** from Universidade Anhembi Morumbi (UAM-2020) and studying Computer Engineering
 
 📚 I'm always updating myself on market technology trends through technological courses and bootcamps.
 
-🎓 I have certification in Scrum Fundamentals and Cybersecurity.
+🎓 I have certification in Scrum.
 
 
  <div>
