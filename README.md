@@ -35,8 +35,6 @@
  ![Snake animation](https://github.com/Luannabrandao/Luannabrandao/blob/output/github-contribution-grid-snake.svg)
 
 
-## Thanks for visiting.
-
-# Enjoy it!! o/ 🙃
+## Thanks for visiting.\o/ 🙃
 
 ----------------------------------------------------------------------------------
