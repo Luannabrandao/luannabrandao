@@ -1,8 +1,8 @@
  Oiii! Eu sou a Luanna Brandao 😃
  
-:computer: Sou Desenvolvedora, atualmente trabalhando na area de Implantação | Implantação de sistema!!
+:computer: Sou Desenvolvedora, atualmente trabalhando na area de Implantação de sistema!!
 
-👩 Graduated in **System Analysis and Development** from Universidade Anhembi Morumbi (UAM-2020) and studying Computer Engineering
+👩 Graduated in **System Analysis and Development** from Universidade Anhembi Morumbi (UAM-2020) and studying ciências da Computação
 
 📚 I'm always updating myself on market technology trends through technological courses and bootcamps.
 
