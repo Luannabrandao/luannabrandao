@@ -4,10 +4,6 @@
 
 👩 Graduated in **System Analysis and Development** from Universidade Anhembi Morumbi (UAM-2020) and studying ciências da Computação
 
-📚 I'm always updating myself on market technology trends through technological courses and bootcamps.
-
-🎓 I have certification in Scrum.
-
 
  <div>
   <a href="https://github.com/Luannabrandao">
