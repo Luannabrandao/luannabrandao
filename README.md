@@ -12,12 +12,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="140" widht="140"  align="right" alt="Lu-gif" src="https://i.picasion.com/pic91/07a5d079855b45c03f55cdb84fc8f816.gif">
+    <img height="140" widht="140"  align="right" alt="Lu-gif" src="https://i.picasion.com/pic91/07a5d079855b45c03f55cdb84fc8f816.gif">
 </div>
   
   ##
