@@ -2,7 +2,7 @@
  
 :computer: Sou Desenvolvedora, atualmente trabalhando na area de Implantação de sistema!!
 
-👩 Graduated in **System Analysis and Development** from Universidade Anhembi Morumbi (UAM-2020) and studying ciências da Computação
+👩 Graduada em **System Analysis and Development** pela Universidade Anhembi Morumbi (UAM-2020) e estudando Ciencias da Computação!
 
 
  <div>
@@ -28,6 +28,6 @@
  ![Snake animation](https://github.com/Luannabrandao/Luannabrandao/blob/output/github-contribution-grid-snake.svg)
 
 
-## Thanks for visiting.\o/ 🙃
+## Obrigada pela visita.\o/ 🙃
 
 ----------------------------------------------------------------------------------
