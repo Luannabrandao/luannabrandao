@@ -2,7 +2,7 @@
  
 :computer: Sou Desenvolvedora, atualmente trabalhando na area de Implantação de sistema!!
 
-👩 Graduada em **System Analysis and Development** pela Universidade Anhembi Morumbi (UAM-2020) e estudando Ciencias da Computação!
+👩 Graduada em **Análise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM-2020)!
 
 
  <div>
