@@ -1,8 +1,41 @@
- Oiii! Eu sou a Luanna Brandao 😃
- 
-:computer: Sou Desenvolvedora, atualmente trabalhando na area de Implantação de sistema!!
+# Oiii! Eu sou a Luanna Brandão 😃
 
-👩 Graduada em **Análise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM-2020)!
+💻 Desenvolvedora com experiência em Implantação de Sistemas, suporte técnico e integração de processos.
+
+🎓 Graduada em **Análise e Desenvolvimento de Sistemas** pela Universidade Anhembi Morumbi (UAM - 2020)!
+
+---
+
+# 🚀 Habilidades
+
+## 📌 Gestão & Processos
+- **Gestão de Projetos:** Organização de entregas, cronogramas e alinhamento de escopo.
+- **Implantação de Sistemas:** Integração, homologação, parametrização e transição de sistemas para produção.
+- **Suporte Técnico & Atendimento ao Cliente:** Análise de problemas, acompanhamento de chamados e comunicação com clientes estratégicos.
+- **Levantamento de Requisitos:** Entendimento de necessidades de negócio e apoio na definição de soluções.
+- **Metodologias Ágeis:** Vivência com organização de tarefas e fluxo de trabalho em ambientes dinâmicos.
+
+---
+
+## 💻 Tecnologias & Ferramentas
+- **Front-end:** HTML5, CSS3 e JavaScript.
+- **Versionamento:** Git e GitHub.
+- **Inteligência Artificial:** Utilização de ferramentas de IA para produtividade, automação e apoio no desenvolvimento.
+- **Lógica de Programação:** Estruturação de soluções e resolução de problemas.
+- **Responsividade & Boas Práticas:** Desenvolvimento de interfaces organizadas e adaptáveis.
+
+---
+
+## 🌟 Competências Profissionais
+- Comunicação clara com equipes e clientes.
+- Facilidade de aprendizado e adaptação.
+- Organização e autonomia.
+- Pensamento analítico.
+- Resolução de problemas.
+- Colaboração em equipe.
+
+---
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
