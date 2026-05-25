@@ -18,12 +18,12 @@
 ---
 
 ## 💻 Tecnologias & Ferramentas
-- **Front-end:** HTML5, CSS3 e JavaScript.
-- **Versionamento:** Git e GitHub.
-- **Inteligência Artificial:** Utilização de ferramentas de IA para produtividade, automação e apoio no desenvolvimento.
-- **Lógica de Programação:** Estruturação de soluções e resolução de problemas.
-- **Responsividade & Boas Práticas:** Desenvolvimento de interfaces organizadas e adaptáveis.
-
+* **Front-end:** HTML5, CSS3, JavaScript (ES6+) e **React.js**.
+* **Arquitetura & Rotas:** Componentização funcional, React Hooks e React Router Dom (SPAs).
+* **Estilização:** Flexbox, CSS Grid, Design Responsivo e Soft UI/Modern Design.
+* **Versionamento:** Git e GitHub.
+* **Qualidade de Código:** Validações com ESLint e boas práticas de semântica/acessibilidade.
+* **Inteligência Artificial:** Utilização de ferramentas de IA para produtividade, automação e apoio no desenvolvimento.
 ---
 
 ## 🌟 Competências Profissionais
