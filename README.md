@@ -64,7 +64,6 @@ Comunicação clara com equipes e clientes · Facilidade de aprendizado e adapta
   <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
   <img height="140" widht="140"  align="right" alt="Lu-gif" src="https://i.picasion.com/pic91/07a5d079855b45c03f55cdb84fc8f816.gif">
 </div>
   
